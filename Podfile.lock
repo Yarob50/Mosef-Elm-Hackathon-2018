@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.7.1)
+  - BulletinBoard (1.3.0)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - IQKeyboardManagerSwift (5.0.8)
+  - Kingfisher (4.6.4)
+  - MBProgressHUD (1.1.0)
+  - paper-onboarding (4.0.2)
+  - Pulsator (0.6.0)
+  - Spring (1.0.5)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BulletinBoard
+  - GoogleMaps
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - MBProgressHUD (~> 1.1.0)
+  - paper-onboarding
+  - Pulsator
+  - Spring
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BulletinBoard
+    - GoogleMaps
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - MBProgressHUD
+    - paper-onboarding
+    - Pulsator
+    - Spring
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  BulletinBoard: 23c9d98cac654fd484d76f2a0655669974e9bd9c
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  IQKeyboardManagerSwift: 2e7dc7f98c111458c1ea2b373f893e8cf95e2b97
+  Kingfisher: 68498a706e46c2a050b0c9572f100e5db407f6e0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  paper-onboarding: e6e2778c4e8de8db1d798bb7e3b4922e91fb7f99
+  Pulsator: eb5a9f9be4bdcbd19903984c65deca6aabe50a17
+  Spring: 17901566c8ecf3a1327902b940406c64512f9bb1
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 0e923aa45e736335a087c997e1f29864cdaf1825
+
+COCOAPODS: 1.7.5
